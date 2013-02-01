@@ -10,7 +10,7 @@ Keywords: 3D, 3D scanning, 3D printing, engagement, future of museums, emerging 
 
 In the past year we have seen an explosion in the hype cycle surrounding 3D printing. The September 2012 design issue of Wired magazine features the new Makerbot 3D printer on its cover, with the headline “This Machine will Change the World.” Every day seems to deliver a new story touting the power of 3D printing to revolutionize manufacturing, medicine, fashion and food. Despite the coverage and intrigue, this technology and its specific museum applications remains a bit abstract. This paper reveals how the emergence of a 3D production ecosystem that is broadly accessible both in cost and ease of use makes this technology of particular and immediate interest to museums. From conservation to education, collections access to exhibition planning, there are multitudes of opportunities ripe for exploration in museums of all kinds.
 
-X, Y, and Z Origins and Context
+X, Y, and Z: Origins and Context
 
 Why are there so many people excited about this technology right now? At this moment in time, 3D printing remains a bit of a novelty and source of wonderment to the average consumer and an obsession for enthusiasts. Though far more sophisticated versions of this technology have existed in industrial design studios for decades, the recent popularity has emerged from a convergence of tools and trends that democratize access for an average consumer both in terms of price points and learning curves. The origins of the consumer 3D movement stem from the broader trends of the maker movement including the Do-It-Yourself (DIY) and open hardware community.
 
