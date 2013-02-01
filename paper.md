@@ -72,7 +72,9 @@ Figure 1: An SAIC class scanning sculptures for 3D capture in a gallery at the A
 
 Printing
 
-Printing brings in the tactile nature of production and builds a different kind of relationship between the visitor, the collection object and the derivative replica. Beyond the initial novelty, the print engages the sense of touch to allow a sense of creation, ownership and personalization of the museum. It is part of the museum that can physically go home with the visitor to extend the experience—like the old fashioned wax mold-a-ramas. But because there is a process of making and translation involved in the creation of the print, the replica is more than simply the material manifestation—it is a physical embodiment of the engagement.
+Printing brings in the tactile nature of production and builds a different kind of relationship between the visitor, the collection object and the derivative replica. Beyond the initial novelty, the print engages the sense of touch to allow a sense of creation, ownership and personalization of the museum. It is part of the museum that can physically go home with the visitor to extend the experience—like the old fashioned wax mold-a-ramas. But because there is a process of making and translation involved in the creation of the print, the replica is more than simply the material manifestation—it is a physical embodiment of the engagement. 
+
+In the case of the [Gaurdian Lion heads](http://www.thingiverse.com/thing:24047), a more popular print from the Metropolitan 3D hackathon, a curious observer can notice two behaviours of a person who has printed the shared 3D capture. One, the person slows down to a crawl or stops - only slightly unusual given their more auxillary role in the gallery. The more interesting behaviour seen is that person's fingers moving, tracing the invisible contours of the plastic (or ceramic) printout that they felt at such a smaller scale. They are reconnecting with the object in a tactile manner every time they walk past.
 
 Remix/Adaptation
 
