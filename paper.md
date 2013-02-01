@@ -1,5 +1,4 @@
 Please Feel the Museum: The Emergence of 3D Printing and Scanning
-Please Feel the Museum:  The Emergence of 3D Printing and Scanning
 
 Liz Neely, The Art Institute of Chicago; Miriam Langer, New Mexico Highlands University; Jonathan Dehan, The Metropolitan Museum of Art
 
